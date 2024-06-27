@@ -1,9 +1,9 @@
-name="very big borders"
-desc="A theme with a very big borders"
+name="circle"
+desc="the smoothest ever"
 version="0.1.0"
-author="hl border control"
+author="_xX_ball_Xx_"
 repo="https://github.com/hyprlandcommunitytest/themes"
-branch="big border"
+branch="circle"
 
 [theme]
 config = "theme.conf"
