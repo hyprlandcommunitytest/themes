@@ -1,0 +1,18 @@
+{
+    "themes": [
+        {
+            "name": "circle",
+            "repo": "https://github.com/hyprlandcommunitytest/themes",
+            "branch": "circle",
+            "desc": "the smoothest ever",
+            "images": []
+        },
+        {
+            "name": "very big borders",
+            "repo": "https://github.com/hyprlandcommunitytest/themes",
+            "branch": "big border",
+            "desc": "A theme with a very big borders",
+            "images": []
+        }
+    ]
+}

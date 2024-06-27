@@ -1,9 +1,0 @@
-name="very big borders"
-desc="A theme with a very big borders"
-version="0.1.0"
-author="hl border control"
-repo="https://github.com/hyprlandcommunitytest/themes"
-branch="big border"
-
-[theme]
-config = "theme.conf"
